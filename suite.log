@@ -1,0 +1,17 @@
+2026-07-07 19:53:06,788 - INFO - ====== WebDriver manager ======
+2026-07-07 19:53:13,361 - INFO - Get LATEST chromedriver version for google-chrome
+2026-07-07 19:53:13,456 - INFO - Get LATEST chromedriver version for google-chrome
+2026-07-07 19:53:13,532 - INFO - There is no [win64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-07-07 19:53:13,533 - INFO - Get LATEST chromedriver version for google-chrome
+2026-07-07 19:53:13,657 - INFO - WebDriver version 149.0.7827.155 selected
+2026-07-07 19:53:13,661 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win32/chromedriver-win32.zip
+2026-07-07 19:53:13,662 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win32/chromedriver-win32.zip
+2026-07-07 19:53:13,727 - INFO - Driver downloading response is 200
+2026-07-07 19:53:14,630 - INFO - Get LATEST chromedriver version for google-chrome
+2026-07-07 19:53:14,836 - INFO - Driver has been saved in cache [C:\Users\cti22812\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-07-07 19:53:21,604 - INFO - Navegando a https://www.saucedemo.com/
+2026-07-07 19:53:22,044 - INFO - Texto ingresado en ('id', 'user-name')
+2026-07-07 19:53:22,182 - INFO - Texto ingresado en ('id', 'password')
+2026-07-07 19:53:22,347 - INFO - Click realizado en el elemento: ('id', 'login-button')
+2026-07-07 19:53:22,513 - INFO - Click realizado en el elemento: ('id', 'add-to-cart-sauce-labs-backpack')
+2026-07-07 19:53:22,612 - INFO - Click realizado en el elemento: ('class name', 'shopping_cart_link')
